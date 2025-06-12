@@ -4,9 +4,9 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: [Completar con nombre y apellido]
+- **Nombre y Apellido**: joaquin Tejada Pareja
 - **Ciclo Lectivo**: 2025
-- **Carrera**: [Completar con nombre de la carrera]
+- **Carrera**: ingenieria informatica
 
 ## ⏰ Información Importante sobre la Entrega
 
@@ -334,6 +334,7 @@ El sistema debe incluir pruebas unitarias utilizando el módulo `unittest`, que 
 - ❌ Error si el paciente o médico no existen.
 - ❌ Error si el médico no atiende la especialidad solicitada.
 - ❌ Error si el médico no trabaja ese día de la semana.
+
 
 #### 💊 Recetas
 
